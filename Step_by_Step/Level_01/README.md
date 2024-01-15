@@ -9,5 +9,5 @@
 |07|<a href="https://www.acmicpc.net/problem/10926">10926번</a>|
 |11|<a href="https://www.acmicpc.net/problem/11382">11382번</a>|
 |12|<a href="https://www.acmicpc.net/problem/10171">10171번</a>|
-|13|<a href="https://www.acmicpc.net/problem/10172">10172번</a>|
+|13|<a href='https://www.acmicpc.net/problem/10172'>10172번</a>|
 
