@@ -11,3 +11,4 @@
 |12|<a href="https://www.acmicpc.net/problem/10171">10171번</a>|
 |13|<a href='https://www.acmicpc.net/problem/10172'>10172번</a>|
 
+https://www.acmicpc.net/problem/10172
