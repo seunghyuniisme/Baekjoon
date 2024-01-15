@@ -11,4 +11,4 @@
 |12|<a href="https://www.acmicpc.net/problem/10171">10171번</a>|
 |13|<a href='https://www.acmicpc.net/problem/10172'>10172번</a>|
 
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
+https://www.acmicpc.net/problem/15649
