@@ -1,10 +1,12 @@
 <h2>단계별로 풀어보기 <1단계. 입출력과 사칙연산> </h2>
 
-‼️ 오답, 실수 기록
-‼️ 헷갈린 개념들 정리
+‼️ 오답 및 실수, 헷갈리는 개념 정리 <br>
 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+
+|순번|문제 번호|
+|------|---|
+|05|1008번 <a href>https://www.acmicpc.net/problem/1008</a>|
+|07|10926번 <a href>https://www.acmicpc.net/problem/10926</a>|
+|11|11382번 <a href>https://www.acmicpc.net/problem/11382</a>|
+|12|10171번 <a href>https://www.acmicpc.net/problem/10171</a>|
+|13|10172번 <a href>https://www.acmicpc.net/problem/10172</a>|
