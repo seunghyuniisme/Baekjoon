@@ -56,7 +56,7 @@ fixed 는 고정 소수점 표기로, 만약 fixed를 쓰면 그 다음부터 �
 넘겨준 값 만큼 출력이 된다. <br>
 아래와 같이 사용한다. <br>
 ```C++
-cout << fixed;
+cout <<fixed;
 ```
 <br>
 
@@ -75,34 +75,34 @@ std::cout << a;	// 1234.567 에서 반올림 된 1234.57 이 출력 됨
 precision()은 헤더파일을 추가했을 때와 하지 않았을 때의 표기법이 다르다. <br>
 
 1. #include <iomanip> 헤더파일 추가할 경우<br>
- ```C++ 
-   cout << setprecision(n);
+ ```C++
+cout << setprecision(n);
  ```
 <br>
 2. 추가하지 않을 경우<br>
 ```C++
-   cout.precision(n);
+cout.precision(n);
 ```
 <br>
 <br>
 <h4>최종 코드</h4> <br>
  ```C++ 
- #include <iostream>
- using namespace std;
- 
- int main()
- {
-     double a, b;
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    double a, b;
      
-     cin >> a >> b;
+    cin >> a >> b;
      
-     cout << fixed; // 소수점 고정 
-     cout.precision(9); // 9자리까지 표현
+    cout << fixed; // 소수점 고정 
+    cout.precision(9); // 9자리까지 표현
+    
+    cout << a / b << endl;
      
-     cout << a / b << endl;
-     
-     return 0;
- }
+    return 0;
+}
 ```
 
 
