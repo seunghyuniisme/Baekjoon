@@ -55,9 +55,9 @@ cin, cout 사용 시 입력은 문제가 없지만 출력의 경우 약간 다�
 fixed 는 고정 소수점 표기로, 만약 fixed를 쓰면 그 다음부터 틀어오는 출력들은 소수점 아래로 설정한 precision으로<br>
 넘겨준 값 만큼 출력이 된다. <br>
 아래와 같이 사용한다. <br>
-```C++
+
 cout <<fixed;
-```
+
 <br>
 
 두 번째 : cout.precision() / setprecision()<br>
@@ -74,19 +74,19 @@ std::cout << a;	// 1234.567 에서 반올림 된 1234.57 이 출력 됨
 따라서 오차범위를 넉넉하게 주려면 precision의 파라미터를 큰 수로 넘겨주어야 한다. <br>
 precision()은 헤더파일을 추가했을 때와 하지 않았을 때의 표기법이 다르다. <br>
 
-1. "#include <iomanip>" 헤더파일 추가할 경우<br>
- ```C++
+1. <h5>#include <iomanip>"<h5> 헤더파일 추가할 경우<br>
+
  cout << setprecision(n);
- ```
+
 <br>
 2. 추가하지 않을 경우<br>
-```C++
+
  cout.precision(n);
-```
+
 <br>
 <br>
 <h4>최종 코드</h4> <br>
- ```C++ 
+<h5>
   #include <iostream>
   using namespace std;
   
@@ -103,7 +103,7 @@ precision()은 헤더파일을 추가했을 때와 하지 않았을 때의 표�
        
       return 0;
   }
-```
+</h5>
 
 
 
